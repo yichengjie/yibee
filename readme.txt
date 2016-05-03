@@ -1,9 +1,9 @@
-1.µçÄÔ°²×°maven²¢ÅäÖÃºÃ»·¾³±äÁ¿
-2.cmd½øÈëÏîÄ¿ËùÔÚµÄdir£¬Ö´ĞĞmvn idea:idea»òÕßmvn eclipse:eclipse
-  ½«ÏîÄ¿×ªÎªidealÊÇ±ğµÄmaven»òÔòeclipseÊÇ±ğµÄÏîÄ¿
-3.ÓÃeclipse»òÔòidealµ¼ÈëÏîÄ¿¼´¿É
-4.cmd½øÈëµ½ÏîÄ¿ÏÂ¿ÉÒÔÖ´ĞĞÏÂÃæµÄĞèÒªµÄÃüÁî
-  mvn compile ±àÒëÏîÄ¿
-  mvn package ´ò°üÏîÄ¿
-  mvn clean ÇåÀí±àÒë
-  mvn install °²×°ÏîÄ¿µ½resp
+1.ç”µè„‘å®‰è£…mavenå¹¶é…ç½®å¥½ç¯å¢ƒå˜é‡
+2.cmdè¿›å…¥é¡¹ç›®æ‰€åœ¨çš„dirï¼Œæ‰§è¡Œmvn idea:ideaæˆ–è€…mvn eclipse:eclipse
+  å°†é¡¹ç›®è½¬ä¸ºidealæ˜¯åˆ«çš„mavenæˆ–åˆ™eclipseæ˜¯åˆ«çš„é¡¹ç›®
+3.ç”¨eclipseæˆ–åˆ™idealå¯¼å…¥é¡¹ç›®å³å¯
+4.cmdè¿›å…¥åˆ°é¡¹ç›®ä¸‹å¯ä»¥æ‰§è¡Œä¸‹é¢çš„éœ€è¦çš„å‘½ä»¤
+  mvn compile ç¼–è¯‘é¡¹ç›®
+  mvn package æ‰“åŒ…é¡¹ç›®
+  mvn clean æ¸…ç†ç¼–è¯‘
+  mvn install å®‰è£…é¡¹ç›®åˆ°resp
