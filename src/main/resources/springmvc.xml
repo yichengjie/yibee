@@ -22,6 +22,11 @@
             <bean class="org.springframework.http.converter.StringHttpMessageConverter">
                 <constructor-arg value="UTF-8" />
             </bean>
+            <bean class="net.yibee.core.util.MyMappingJacksonHttpMessageConverter"></bean>
+            <bean class="org.springframework.http.converter.ByteArrayHttpMessageConverter"/> 
+            <bean class="org.springframework.http.converter.ResourceHttpMessageConverter"/>  
+            <bean class="org.springframework.http.converter.xml.SourceHttpMessageConverter"/>  
+	        <bean class="org.springframework.http.converter.xml.XmlAwareFormHttpMessageConverter"/>  
         </mvc:message-converters>
     </mvc:annotation-driven>
     
